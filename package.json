@@ -1,8 +1,14 @@
 {
   "name": "track-cryptocurrencies",
   "version": "0.0.1",
+  "scripts": {
+    "test": "ava tests/**/*.js"
+  },
   "dependencies": {
     "coinmarketcap": "^0.2.0",
     "node-fetch": "^1.7.1"
+  },
+  "devDependencies": {
+    "ava": "^0.21.0"
   }
 }
