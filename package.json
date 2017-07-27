@@ -1,0 +1,8 @@
+{
+  "name": "track-cryptocurrencies",
+  "version": "0.0.1",
+  "dependencies": {
+    "coinmarketcap": "^0.2.0",
+    "node-fetch": "^1.7.1"
+  }
+}
